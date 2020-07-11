@@ -21,6 +21,7 @@ There you can add new contact with his name and delete it in the list.
 
 ### Compiles and minifies for production --> No need for now
 ```
+cb dev/QuetaBoiler
 npm run build
 ```
 
