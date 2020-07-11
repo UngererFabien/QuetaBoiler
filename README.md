@@ -10,6 +10,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+cb dev/QuetaBoiler
 npm run serve
 ```
 
