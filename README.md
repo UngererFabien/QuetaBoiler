@@ -4,6 +4,7 @@
 ```
 cd dev
 git clone https://github.com/UngererFabien/QuetaBoiler.git
+cd QuetaBoiler
 npm install
 ```
 
